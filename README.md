@@ -1,6 +1,10 @@
-# magicball
+# Magicball
 
-A new Flutter project.
+An Ask Me Anything (AMA) App
+
+![AppDemo](https://github.com/akj1608/Magic-ball-flutter/blob/main/images/AppDemopic.png)
+
+
 
 ## Getting Started
 
